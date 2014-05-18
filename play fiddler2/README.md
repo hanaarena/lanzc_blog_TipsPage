@@ -1,4 +1,4 @@
-试用了下Fiddler2的抓包功能,关于操作教程可google(or:[http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html](http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html "http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html") p.s:为防止该blog失效,做了一个图片备份:![backup](https://github.com/hanaarena/lanzc_blog_TipsPage/raw/master/play%20fiddler2/images/Fiddler%20%E6%95%99%E7%A8%8B_blog_image_backup.png)).
+试用了下Fiddler2的抓包功能,关于操作教程可google(or:[http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html](http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html "http://www.cnblogs.com/TankXiao/archive/2012/02/06/2337728.html") p.s:为防止该blog失效,做了一个图片备份:[backup](https://github.com/hanaarena/lanzc_blog_TipsPage/raw/master/play%20fiddler2/images/Fiddler%20%E6%95%99%E7%A8%8B_blog_image_backup.png)).
 
 记录下使用过程中的一些tips:
 
