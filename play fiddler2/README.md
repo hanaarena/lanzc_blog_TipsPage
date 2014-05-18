@@ -5,6 +5,6 @@
 - ie中可不用装任何插件就可以直接使用Fiddler,貌似Fiddler本来就是监听本地ie端口的
 
 - chrome需安装`Proxy SwitchySharp `,Chrome商店地址:[https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm).
-然后如图设置：![chrome](http://chrome)
+然后如图设置：![chrome](https://raw.githubusercontent.com/hanaarena/lanzc_blog_TipsPage/master/play%20fiddler2/images/chrome_fiddler.png)
 
-- firefox的话安装完Fiddler便会自动安装ff插件,设置如图：![ff](http://ff)
+- firefox的话安装完Fiddler便会自动安装ff插件,设置如图：![ff](https://raw.githubusercontent.com/hanaarena/lanzc_blog_TipsPage/master/play%20fiddler2/images/firefox_fiddler.png)
